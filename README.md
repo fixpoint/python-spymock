@@ -10,7 +10,7 @@ This library provides `SpyMock` which is similar to [`MagicMock`](https://docs.p
 ## Installation
 
 ```
-pip install spymock
+pip install python-spymock
 ```
 
 ## Usage
