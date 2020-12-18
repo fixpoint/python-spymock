@@ -1,5 +1,10 @@
 # spymock
 
+![PyPI](https://img.shields.io/pypi/v/python-spymock)
+![PyPI - License](https://img.shields.io/pypi/l/python-spymock)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python-spymock)
+![Test](https://github.com/fixpoint/python-spymock/workflows/Test/badge.svg)
+
 This library provides `SpyMock` which is similar to [`MagicMock`](https://docs.python.org/3/library/unittest.mock.html#magic-mock) but recording function return values and exceptions on `call_values_or_exceptions` attribute.
 
 ## Installation
