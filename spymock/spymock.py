@@ -1,5 +1,5 @@
 from functools import partial, wraps
-from typing import Any, Callable, List
+from typing import Any, Callable
 from unittest.mock import create_autospec
 
 

@@ -1,7 +1,6 @@
 import json
 import urllib.request
 from http.client import HTTPResponse
-from unittest.mock import patch
 
 from spymock import SpyMock, spy
 
